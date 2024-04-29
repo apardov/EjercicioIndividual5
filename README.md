@@ -9,5 +9,5 @@ Ejercicio individual 5 que incorpora funcionalidades de login y logout en Django
 
 # Las rutas que se restringieron son:
 
-**- Creación de proveedores.
-**- Usuario luego del inicio de sesión.
+* Creación de proveedores.
+* Usuario luego del inicio de sesión.
